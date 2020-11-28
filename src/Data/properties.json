@@ -1,0 +1,66 @@
+[
+  {
+    "Id": 1,
+    "SellRent": 1,
+    "Image": "apt1",
+    "Name": "Michael Perez",
+    "Type": "House A",
+    "Price": 235700.00
+  },
+  {
+    "Id": 2,
+    "SellRent": 1,
+    "Image": "apt2",
+    "Name":"James Roberts",
+    "Type": "House B",
+    "Price": 360000.00
+  },
+  {
+    "Id": 3,
+    "SellRent": 2,
+    "Image": "apt3",
+    "Name":"Peter Morgan",
+    "Type": "House C",
+    "Price": 123000.00
+  },
+  {
+    "Id": 4,
+    "SellRent": 1,
+    "Image": "apt4",
+    "Name":"Albert Ernest",
+    "Type": "House D",
+    "Price": 146000.00
+  },
+  {
+    "Id": 5,
+    "SellRent": 2,
+    "Image": "apt5",
+    "Name":"Xavier Olmos",
+    "Type": "House F",
+    "Price": 567000.00
+  },
+  {
+    "Id": 6,
+    "SellRent": 2,
+    "Image": "apt6",
+    "Name":"Humberto Lisvok",
+    "Type": "House G",
+    "Price": 200000.00
+  },
+  {
+    "Id": 7,
+    "SellRent": 1 ,
+    "Image": "",
+    "Name":"Laura Towers",
+    "Type": "House H",
+    "Price": 99000.00
+  },
+  {
+    "Id": 8,
+    "SellRent": 1 ,
+    "Image": "apt8",
+    "Name":"Ricks",
+    "Type": "House I",
+    "Price": 1000000.00
+  }
+]
